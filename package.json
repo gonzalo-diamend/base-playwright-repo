@@ -1,0 +1,22 @@
+{
+  "name": "base-playwright-repo",
+  "version": "1.0.0",
+  "description": "Playwright base framework",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalo-diamend/base-playwright-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalo-diamend/base-playwright-repo/issues"
+  },
+  "homepage": "https://github.com/gonzalo-diamend/base-playwright-repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.6"
+  }
+}

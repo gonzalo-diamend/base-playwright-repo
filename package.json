@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Playwright base framework",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gonzalo-diamend/base-playwright-repo.git"
@@ -16,7 +18,7 @@
   },
   "homepage": "https://github.com/gonzalo-diamend/base-playwright-repo#readme",
   "devDependencies": {
-    "@playwright/test": "^1.54.0",
+    "@playwright/test": "^1.58.1",
     "@types/node": "^24.2.0"
   }
 }
